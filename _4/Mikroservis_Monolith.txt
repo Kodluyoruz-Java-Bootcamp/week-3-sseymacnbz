@@ -1,0 +1,20 @@
+ MİKROSERVİS MİMARİ
+ Mikroservisler bir teknoloji değildir, bunun yerine bir yazılım mimarisi, uygulama ve hizmetler
+ tasarlamaya yönelik bir yaklaşımdır. Yaklaşımın amacı, bir uygulamayı tek bir monolitik varlık
+ olarak oluşturmak yerine, gerekli işlevselliği birbiriyle iletişim kuran daha küçük ve bağımsız
+ olarak dağıtılabilir hizmetler koleksiyonuna bölmektir.
+ 
+ Mikroservis yaklaşımının çeşitli avantajları bulunuyor: Ayrı bileşenler birbirinden bağımsız
+ olarak ölçeklenebildiğinden, mikroservis yaklaşımı daha kolay ölçeklenebilirlik sunar. Bileşen
+ parçalarının küçük boyutu, sürekli iyileştirmeyi kolaylaştırdığından ve kodda daha hızlı
+ güncellemelere izin verdiğinden, mikroservisler çevik geliştirme ürünleridir.
+
+ MONOLİTİK MİMARİ
+ Monolithic yaklaşım, bir sistemin/nesnenin tek bir parça olacak şekilde tasarlanmasıdır.
+ Monolithic mimari ise bu tasarımın stratejik yapılanmasıdır. Monolithic yaklaşım, üretilecek
+ sistemin/nesnenin bileşenlerini(componentlerini) birbirlerine bağlı olarak ve kendi kendine
+ yetecek(self-contained) şekilde tasarlanmasını sağlayan ve böylece tek bir bütünsel varlık 
+ olarak nihai sonuca varılmasını sağlayan mimaridir.
+
+ Monolithic yaklaşımı benimsemiş uygulamaların tüm fonksiyonaliteleri tek bir çatı altında
+ geliştirilirler.
